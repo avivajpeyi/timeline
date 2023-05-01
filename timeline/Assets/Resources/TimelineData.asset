@@ -1,0 +1,2909 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5058fb2d6a364b499424ac40a1627ce, type: 3}
+  m_Name: TimelineData
+  m_EditorClassIdentifier: 
+  _items:
+  - id: 1
+    title: Homo sapiens appear
+    details: 
+    year: -200000
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 2
+    title: Bow and arrows
+    details: 
+    year: -62000
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 3
+    title: Humans walk to America (Bering Strait crossing)
+    details: 
+    year: -25000
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 4
+    title: 'Earliest evidence of humans farming '
+    details: 
+    year: -20000
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 5
+    title: Clay pots
+    details: 
+    year: -18000
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 6
+    title: Humans reach Southern tip of South America
+    details: 
+    year: -10000
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 7
+    title: 'Domestication of sheep '
+    details: 
+    year: -9000
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 8
+    title: Englad cut off from Europe (Ocean sea rises)
+    details: 
+    year: -6500
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 9
+    title: Irrigation
+    details: 
+    year: -6000
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 10
+    title: First beer brewed
+    details: 
+    year: -6000
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 11
+    title: Meopotamia forms
+    details: 
+    year: -5500
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 12
+    title: Loom
+    details: horizontal, two-beamed
+    year: -4400
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 13
+    title: 1st year in Egyptian calendar
+    details: 
+    year: -4242
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 14
+    title: Cosmetics
+    details: 
+    year: -4000
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 15
+    title: Wheel
+    details: cart, solid wood
+    year: -3600
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 16
+    title: Indus Valley Civilization forms
+    details: 
+    year: -3300
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 17
+    title: First writing systems
+    details: 
+    year: -3200
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 18
+    title: ox-drawn plow
+    details: 
+    year: -3000
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 19
+    title: Iron (from ore)
+    details: 
+    year: -3000
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 20
+    title: Rule of Gilgamesh
+    details: 
+    year: -2750
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 21
+    title: Great Pyramid of Giza
+    details: 
+    year: -2560
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 22
+    title: Construction of Stonehenge
+    details: 
+    year: -2400
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 23
+    title: 'Beginning of the Shang dynasty '
+    details: 
+    year: -1766
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 24
+    title: Iron age begins (Egypt, India, Palestine)
+    details: 
+    year: -1200
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 25
+    title: Moses leads his people out of Egypt
+    details: 
+    year: -1200
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 26
+    title: Iron age beins (Europe)
+    details: 
+    year: -800
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 27
+    title: The Odyssey published
+    details: 
+    year: -800
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 28
+    title: First Olympic Games
+    details: 
+    year: -776
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 29
+    title: Founding date of Rome
+    details: 
+    year: -753
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 30
+    title: Windmill
+    details: 
+    year: -600
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 31
+    title: Zero number created
+    details: 
+    year: -600
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 32
+    title: Birth of Buddha
+    details: 
+    year: -563
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 33
+    title: Atomic theory (Ancient Greece)
+    details: ancient
+    year: -500
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 34
+    title: Classical period begins
+    details: 
+    year: -480
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 35
+    title: Sparta defeats Athens
+    details: 
+    year: -404
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 36
+    title: Hippocratic oath made
+    details: 
+    year: -400
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 37
+    title: Aristotle opens the Lyceum in Athens
+    details: 
+    year: -336
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 38
+    title: Alexander the great made king
+    details: 
+    year: -336
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 39
+    title: Alexander the great dies
+    details: 
+    year: -323
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 40
+    title: Crossbow
+    details: 
+    year: -300
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 41
+    title: Geometry
+    details: 
+    year: -300
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 42
+    title: Building of the Great wall commences
+    details: 
+    year: -221
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 43
+    title: Atomic theory (Ancient Rome)
+    details: 
+    year: -100
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 44
+    title: Roller bearing
+    details: wooden for cartwheel
+    year: -100
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 45
+    title: 'Julius Caesar assasinated '
+    details: 
+    year: -44
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 46
+    title: Birth of Christ
+    details: 
+    year: 4
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 47
+    title: Crucifixion of Christ
+    details: 
+    year: 29
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 48
+    title: London established
+    details: 
+    year: 43
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 49
+    title: Vesuvius erupts
+    details: 
+    year: 79
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 50
+    title: Paper
+    details: 
+    year: 100
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 51
+    title: Roman Pantheon built
+    details: 
+    year: 126
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 52
+    title: Constantinople forms
+    details: 
+    year: 330
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 53
+    title: Chirstianity becomes official religion of Roman Empire
+    details: 
+    year: 390
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 54
+    title: End of Roman Empire
+    details: 
+    year: 476
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 55
+    title: Vision of Muhammad
+    details: 
+    year: 610
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 56
+    title: Gunpowder
+    details: 
+    year: 700
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 57
+    title: Printing
+    details: block
+    year: 700
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 58
+    title: Norse settle in Canada
+    details: 
+    year: 1000
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 59
+    title: 'First university established '
+    details: 
+    year: 1088
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 60
+    title: First holy crusade begins
+    details: 
+    year: 1095
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 61
+    title: Jews are banished from France
+    details: 
+    year: 1182
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 62
+    title: Mongols invade China
+    details: 
+    year: 1211
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 63
+    title: Marco Polo's stories published
+    details: 
+    year: 1300
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 64
+    title: Peak of Black death
+    details: 
+    year: 1347
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 65
+    title: The Renaissance begins
+    details: 
+    year: 1350
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 66
+    title: Joan of Arc born
+    details: 
+    year: 1412
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 67
+    title: "China names Beijing as it\u2019s capital city"
+    details: 
+    year: 1421
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 68
+    title: Formation of the Incan Empire
+    details: 
+    year: 1438
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 69
+    title: Gutenberg Bible starts being printed
+    details: 
+    year: 1455
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 70
+    title: Rifle
+    details: muzzle-loaded
+    year: 1475
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 71
+    title: Colombus arrives to Bahamas
+    details: 
+    year: 1492
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 72
+    title: Vasco da Gama Finds a Sea Route from Europe to India
+    details: 
+    year: 1498
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 73
+    title: The slave trade (Africa-US) begins
+    details: 
+    year: 1502
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 74
+    title: Mona Lisa completed
+    details: 
+    year: 1504
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 75
+    title: Sistine Chapel completed
+    details: 
+    year: 1512
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 76
+    title: Protestant Reformation begins
+    details: 
+    year: 1517
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 77
+    title: Magellan Is Killed in the Philippines
+    details: 
+    year: 1522
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 78
+    title: Disease
+    details: chemicals in treatment of
+    year: 1541
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 79
+    title: Anatomy, human
+    details: <i>De fabrica corporis humani,</i> an illustrated systematic study of
+      the human body
+    year: 1543
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 80
+    title: Sun-centered universe model
+    details: Sun-centered universe
+    year: 1543
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 81
+    title: Contagion theory
+    details: infectious diseases caused by living agent transmitted from person to
+      person
+    year: 1546
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 82
+    title: Wallpaper
+    details: 
+    year: 1551
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 83
+    title: Star catalog
+    details: first modern
+    year: 1572
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 84
+    title: Classification of plants
+    details: first modern, based on comparative study of forms
+    year: 1583
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 85
+    title: Universe is infinite
+    details: infinity of universe
+    year: 1584
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 86
+    title: law of falling bodies
+    details: 
+    year: 1590
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 87
+    title: Thermometer
+    details: open-column
+    year: 1593
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 88
+    title: Earth is Magnetic
+    details: 
+    year: 1600
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 89
+    title: Hamlet completed
+    details: 
+    year: 1601
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 90
+    title: Japan outlaws Christianity
+    details: 
+    year: 1606
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 91
+    title: 'English colonists establish first american colony '
+    details: 
+    year: 1607
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 92
+    title: Telescope
+    details: 
+    year: 1608
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 93
+    title: Elliptical planetary orbits
+    details: establishment of planetary orbits as elliptical
+    year: 1609
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 94
+    title: Logarithm Tables (Napier)
+    details: 'logarithms: made multiplying easier and thus calculators practical'
+    year: 1614
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 95
+    title: laws of Planetary motion
+    details: 
+    year: 1619
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 96
+    title: New York founded
+    details: 
+    year: 1624
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 97
+    title: Circulation of blood model
+    details: 
+    year: 1628
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 98
+    title: Slide-rule (a calculating tool)
+    details: slide rule
+    year: 1632
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 99
+    title: Steam engine
+    details: first commercial version based on principles of French physicist <a
+      href="/search/encyclopedia/Denis+Papin">Denis Papin</a>
+    year: 1639
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 100
+    title: Mechanical Calculator (Pascaline)
+    details: digital calculator
+    year: 1642
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 101
+    title: Barometer
+    details: 
+    year: 1643
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 102
+    title: Taj Mahal completed
+    details: 
+    year: 1653
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 103
+    title: Probability theory
+    details: 
+    year: 1654
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 104
+    title: Pendulum clock
+    details: 
+    year: 1656
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 105
+    title: Saturn, ring around
+    details: 
+    year: 1659
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 106
+    title: Boyle's law (PV=k)
+    details: relation between pressure and volume in gases
+    year: 1662
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 107
+    title: Spectrum
+    details: heterogeneity of light
+    year: 1666
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 108
+    title: Calculus
+    details: 
+    year: 1669
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 109
+    title: Royal Observatory, Greenwich
+    details: 
+    year: 1675
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 110
+    title: Wave nature of Light
+    details: wave theory
+    year: 1678
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 111
+    title: Pressure cooker
+    details: early version
+    year: 1679
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 112
+    title: Bacteri
+    details: 
+    year: 1683
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 113
+    title: Spermatozoa
+    details: 
+    year: 1683
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 114
+    title: Principia Mathematica published (explains Laws of Motion and Gravitation)
+    details: published 1687
+    year: 1687
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 115
+    title: laws of Motion
+    details: 
+    year: 1687
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 116
+    title: Halley's Comet
+    details: 
+    year: 1705
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 117
+    title: Piano
+    details: Hammerklavier
+    year: 1709
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 118
+    title: Kinetic theory of gases
+    details: molecules of a gas are in a state of rapid motion
+    year: 1738
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 119
+    title: Lightning rod
+    details: 
+    year: 1752
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 120
+    title: Conservation of electric charge
+    details: the total electric charge of the universe or any closed system is constant
+    year: 1754
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 121
+    title: British rule established in India
+    details: 
+    year: 1757
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 122
+    title: Lens, bifocal
+    details: 
+    year: 1760
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 123
+    title: Boston tea party
+    details: 
+    year: 1773
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 124
+    title: Oxygen
+    details: isolation of
+    year: 1774
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 125
+    title: How combustion works
+    details: nature of
+    year: 1777
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 126
+    title: Plant respiration and photosynthesis
+    details: 
+    year: 1779
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 127
+    title: Uranus
+    details: first planet discovered in recorded history
+    year: 1781
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 128
+    title: hot-air balloon
+    details: 
+    year: 1783
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 129
+    title: Parachute
+    details: 
+    year: 1783
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 130
+    title: Steamship
+    details: 
+    year: 1783
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 131
+    title: America gains independance from England
+    details: 
+    year: 1783
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 132
+    title: Light has a finite velocity
+    details: "theory that light has finite velocity) <a href=\"/search/encyclopedia/Olaus+R%26%23xF8%3Bmer\">Olaus
+      Roemer</a>, Denmark, 1675.<table border=\"0\" class=\"graphseg\" width=\"180\"><tbody><tr><td
+      id=\"A0905109\"><img alt=\"Benjamin Franklin\" class=\"b-lazy lazy_load_image\"
+      data-src=\"/images/franklin.gif\" height=\"212\" id=\"A0905110\" src=\"\" width=\"180\"/><div
+      class=\"caption\">Benjamin Franklin (1706\u20131790"
+    year: 1790
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 133
+    title: Cotton gin
+    details: 
+    year: 1793
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 134
+    title: Vaccination
+    details: 
+    year: 1796
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 135
+    title: Paarachute invented
+    details: 
+    year: 1797
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 136
+    title: Chain suspension bridges
+    details: suspension, iron chains
+    year: 1800
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 137
+    title: Battery (Voltaic pile)
+    details: forerunner of modern battery, first source of continuous electric current
+    year: 1800
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 138
+    title: Electric lamp
+    details: arc lamp
+    year: 1801
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 139
+    title: Metric system
+    details: 
+    year: 1801
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 140
+    title: Steam Locomotive
+    details: steam powered
+    year: 1804
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 141
+    title: 'Napoleon becomes Emperor '
+    details: 
+    year: 1804
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 142
+    title: World population reaches 1 billion
+    details: 
+    year: 1804
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 143
+    title: UK abolishes slavery
+    details: 
+    year: 1807
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 144
+    title: Atomic theory (modern)
+    details: modern
+    year: 1808
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 145
+    title: Evolution (initial ideas)
+    details: organic
+    year: 1809
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 146
+    title: Avogadro's law
+    details: equal volumes of all gases at the same temperature and pressure contain
+      equal number of molecules
+    year: 1811
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 147
+    title: Napoleon is exiled
+    details: 
+    year: 1814
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 148
+    title: Bicycle
+    details: 
+    year: 1816
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 149
+    title: Match
+    details: phosphorus
+    year: 1816
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 150
+    title: Stethoscope
+    details: 
+    year: 1819
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 151
+    title: Truss Bridges
+    details: truss
+    year: 1820
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 152
+    title: Motor (electric)
+    details: 
+    year: 1822
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 153
+    title: Electromagnet
+    details: 
+    year: 1823
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 154
+    title: Cement
+    details: 
+    year: 1824
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 155
+    title: internal combustion engine
+    details: 
+    year: 1824
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 156
+    title: Microphone
+    details: 
+    year: 1827
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 157
+    title: Ohm's law
+    details: relationship between strength of electric current, electromotive force,
+      and circuit resistance
+    year: 1827
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 158
+    title: Induction, electric
+    details: 
+    year: 1828
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 159
+    title: Braille
+    details: 
+    year: 1829
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 160
+    title: Computers (first design)
+    details: first design of analytical engine
+    year: 1830
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 161
+    title: France colonizes Algeria
+    details: 
+    year: 1830
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 162
+    title: Lawn mower
+    details: 
+    year: 1831
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 163
+    title: Electric generator (dynamo)
+    details: laboratory model
+    year: 1832
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 164
+    title: Reaper
+    details: 
+    year: 1834
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 165
+    title: '"analytical engine'' (Babbage)'
+    details: "\u201Canalytical engine\u201D design, included concepts of programming,
+      taping"
+    year: 1835
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 166
+    title: Revolver
+    details: 
+    year: 1835
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 167
+    title: Screw propeller
+    details: 
+    year: 1836
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 168
+    title: Cells
+    details: 'theory: cells are common structural and functional unit of all living
+      organisms'
+    year: 1839
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 169
+    title: Ozone
+    details: 
+    year: 1839
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 170
+    title: Photovoltaic effect
+    details: light falling on certain materials can produce electricity
+    year: 1839
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 171
+    title: Rubber
+    details: vulcanization process
+    year: 1839
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 172
+    title: Ice age theory
+    details: 
+    year: 1840
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 173
+    title: Anesthetic (use on humans)
+    details: "first use of anesthetic\u2014ether\u2014on humans"
+    year: 1842
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 174
+    title: Thermodynamics
+    details: 'first law: energy cannot be created or destroyed, only converted from
+      one form to another'
+    year: 1842
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 175
+    title: Tire
+    details: 
+    year: 1845
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 176
+    title: Neptune
+    details: discovery of
+    year: 1846
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 177
+    title: Nitroglycerin
+    details: 
+    year: 1846
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 178
+    title: Sewing machine
+    details: 
+    year: 1846
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 179
+    title: Chewing gum (spruce-based)
+    details: spruce-based
+    year: 1848
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 180
+    title: Absolute zero temperature
+    details: absolute zero temperature, cessation of all molecular energy
+    year: 1848
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 181
+    title: The Communist Manifesto published
+    details: 
+    year: 1848
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 182
+    title: Bullet
+    details: conical
+    year: 1849
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 183
+    title: Safety pin
+    details: 
+    year: 1849
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 184
+    title: Refrigerator
+    details: 
+    year: 1850
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 185
+    title: Rotation of Earth
+    details: 
+    year: 1851
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 186
+    title: Airship (non rigid)
+    details: non-rigid
+    year: 1852
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 187
+    title: Elevator
+    details: safety device permitting use by passengers
+    year: 1852
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 188
+    title: Gyroscope
+    details: 
+    year: 1852
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 189
+    title: Condensed milk
+    details: 
+    year: 1853
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 190
+    title: Symbolic logic
+    details: 
+    year: 1854
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 191
+    title: Plastics
+    details: first material, nitrocellulose softened by vegetable oil, camphor, precursor
+      to Celluloid
+    year: 1855
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 192
+    title: Dye
+    details: aniline, start of synthetic dye industry
+    year: 1856
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 193
+    title: Continental drift theory
+    details: geographer who pieced together continents into a single landmass on
+      maps
+    year: 1858
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 194
+    title: On the Origin of Species published (evolution by natural selection)
+    details: by natural selection
+    year: 1859
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 195
+    title: Oil well
+    details: 
+    year: 1859
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 196
+    title: Spectrum analysis
+    details: 
+    year: 1859
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 197
+    title: Fermentation
+    details: microorganisms as cause of
+    year: 1860
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 198
+    title: Solar energy
+    details: 
+    year: 1860
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 199
+    title: Machine gun
+    details: hand-cranked multibarrel
+    year: 1862
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 200
+    title: laws of Heredity
+    details: 
+    year: 1865
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 201
+    title: Assassination of Lincoln
+    details: 
+    year: 1865
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 202
+    title: Aluminum manufacture (by electrolytic action)
+    details: by electrolytic action
+    year: 1866
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 203
+    title: Antiseptic
+    details: surgery
+    year: 1867
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 204
+    title: Dynamite
+    details: 
+    year: 1867
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 205
+    title: Typewriter
+    details: 
+    year: 1867
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 206
+    title: Air brake
+    details: 
+    year: 1868
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 207
+    title: Helium first observed on sun
+    details: 
+    year: 1868
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 208
+    title: DNA first isolated
+    details: deoxyribonucleic acid
+    year: 1869
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 209
+    title: Periodic table
+    details: arrangement of chemical elements based on periodic law
+    year: 1869
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 210
+    title: Vacuum cleaner
+    details: manually operated
+    year: 1869
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 211
+    title: Opening of the Suez Canal
+    details: 
+    year: 1869
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 212
+    title: Chewing gum (chicle-based)
+    details: chicle-based
+    year: 1870
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 213
+    title: Telegraph
+    details: "1791\u20131872"
+    year: 1872
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 214
+    title: Barbed wire
+    details: most popular
+    year: 1873
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 215
+    title: Electromagnetic theory of light
+    details: electromagnetic theory
+    year: 1873
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 216
+    title: Electric cooking utensil
+    details: first
+    year: 1874
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 217
+    title: Carpet sweeper
+    details: 
+    year: 1876
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 218
+    title: 4-stroke internal combustion engine
+    details: operating four-stroke
+    year: 1876
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 219
+    title: Telephone
+    details: 
+    year: 1876
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 220
+    title: Telephone patented
+    details: 
+    year: 1876
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 221
+    title: "\u201CCanals\u201D of Mars"
+    details: 
+    year: 1877
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 222
+    title: Concrete
+    details: reinforced
+    year: 1877
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 223
+    title: Phonograph
+    details: 
+    year: 1877
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 224
+    title: Refrigerator ship
+    details: first
+    year: 1877
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 225
+    title: Saccharin
+    details: 
+    year: 1879
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 226
+    title: Seismograph
+    details: first accurate
+    year: 1880
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 227
+    title: Electric Fan
+    details: fan
+    year: 1882
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 228
+    title: Electric iron
+    details: flatiron
+    year: 1882
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 229
+    title: Tuberculosis bacterium
+    details: 
+    year: 1882
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 230
+    title: Cholera bacterium
+    details: 
+    year: 1883
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 231
+    title: Man-made Fibers
+    details: nitrocellulose fibers treated to change flammable nitrocellulose to
+      harmless cellulose, precursor of rayon
+    year: 1883
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 232
+    title: Motorcycle
+    details: motor tricycle
+    year: 1884
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 233
+    title: Pen
+    details: fountain
+    year: 1884
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 234
+    title: Automobile (250 rpm)
+    details: first with internal combustion engine, 250 rpm
+    year: 1885
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 235
+    title: Automobile (900 rpm)
+    details: first with practical high-speed internal combustion engine, 900 rpm
+    year: 1885
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 236
+    title: Rabies immunization
+    details: 
+    year: 1885
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 237
+    title: Coca-Cola
+    details: 
+    year: 1886
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 238
+    title: Radio
+    details: spark coil, generator of electromagnetic waves
+    year: 1886
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 239
+    title: Antibiotics (first demonstration of antibiotic effect)
+    details: first demonstration of antibiotic effect
+    year: 1887
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 240
+    title: Electrocardiography
+    details: 
+    year: 1887
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 241
+    title: Hand-held Camera
+    details: hand-held
+    year: 1888
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 242
+    title: Brazil abolishes slavery
+    details: 
+    year: 1888
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 243
+    title: Antitoxin, diphtheri
+    details: 
+    year: 1890
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 244
+    title: Automobile (first carburetor)
+    details: carburetor, spray
+    year: 1892
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 245
+    title: Motion pictures
+    details: 
+    year: 1893
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 246
+    title: X-rays
+    details: X-rays
+    year: 1895
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 247
+    title: Electric Stove
+    details: stove
+    year: 1896
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 248
+    title: Uranium radioactivity
+    details: radioactivity of uranium
+    year: 1896
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 249
+    title: Adrenaline
+    details: 
+    year: 1897
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 250
+    title: Electron
+    details: 
+    year: 1897
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 251
+    title: Aspirin
+    details: 
+    year: 1899
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 252
+    title: Tape recorder
+    details: magnetic steel tape
+    year: 1899
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 253
+    title: Airship (rigid)
+    details: rigid
+    year: 1900
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 254
+    title: Astronomical calculator
+    details: 
+    year: 1900
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 255
+    title: Quantum theory
+    details: general
+    year: 1900
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 256
+    title: Tractor
+    details: 
+    year: 1900
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 257
+    title: Yellow Fever
+    details: transmission of
+    year: 1900
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 258
+    title: Razor
+    details: safety, successfully marketed
+    year: 1901
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 259
+    title: Psychoanalysis
+    details: 
+    year: 1904
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 260
+    title: Radar
+    details: limited to one-mile range
+    year: 1904
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 261
+    title: Gyrocompass
+    details: 
+    year: 1905
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 262
+    title: Intelligence testing
+    details: 
+    year: 1905
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 263
+    title: Electric washing machine
+    details: washing machine
+    year: 1906
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 264
+    title: Wassermann test
+    details: for syphilis
+    year: 1906
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 265
+    title: E=mc2
+    details: equivalence of mass and energy
+    year: 1907
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 266
+    title: Sulfa drugs
+    details: parent compound, para-aminobenzenesulfanomide
+    year: 1908
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 267
+    title: Conditioned reflex
+    details: 
+    year: 1910
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 268
+    title: Air conditioning
+    details: 
+    year: 1911
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 269
+    title: Rutherford model of an atom
+    details: formulated nuclear model of atom, Rutherford model
+    year: 1911
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 270
+    title: Aircraft Autopilot
+    details: for aircraft
+    year: 1912
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 271
+    title: Concept of Isotopes
+    details: concept of
+    year: 1912
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 272
+    title: Vitamins
+    details: hypothesis of disease deficiency
+    year: 1912
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 273
+    title: Bohr model of an Atom
+    details: proposed current concept of atomic structure, the Bohr model
+    year: 1913
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 274
+    title: Moving assembly line
+    details: 
+    year: 1913
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 275
+    title: Tank
+    details: 
+    year: 1914
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 276
+    title: WW1 begins
+    details: 
+    year: 1914
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 277
+    title: Plate tectonics
+    details: 
+    year: 1915
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 278
+    title: Einstein publishes theory of GR
+    details: 
+    year: 1916
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 279
+    title: WW1 ends
+    details: 
+    year: 1918
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 280
+    title: 20 Million People die from Influenza Epidemic
+    details: 
+    year: 1918
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 281
+    title: Isotopes proof
+    details: existence demonstrated by mass spectrography
+    year: 1919
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 282
+    title: Proton
+    details: 
+    year: 1919
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 283
+    title: Prohobition period begins (alcohol ban USA)
+    details: 
+    year: 1919
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 284
+    title: itler forms Nazi party
+    details: 
+    year: 1920
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 285
+    title: Insulin (first isolated)
+    details: first isolated
+    year: 1921
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 286
+    title: USSR Forms
+    details: 
+    year: 1922
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 287
+    title: Insulin (Nobel prize)
+    details: Nobel Prize awarded for purification for use in humans
+    year: 1923
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 288
+    title: Hitler fails to overthrow government
+    details: 
+    year: 1923
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 289
+    title: Frozen food
+    details: 
+    year: 1924
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 290
+    title: Pauli Exclusion principle
+    details: no two electrons in an atom can occupy the same energy level
+    year: 1925
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 291
+    title: Mein Kampf published
+    details: 
+    year: 1925
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 292
+    title: Aerosol can
+    details: 
+    year: 1926
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 293
+    title: Motion pictures with sound
+    details: 
+    year: 1926
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 294
+    title: Rocket
+    details: liquid-fueled
+    year: 1926
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 295
+    title: Big Bang theory proposed
+    details: the universe originated with a huge explosion
+    year: 1927
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 296
+    title: Expanding universe theory proposed
+    details: first proposed
+    year: 1927
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 297
+    title: Uncertainty principle
+    details: that position and velocity of an object cannot both be measured exactly,
+      at the same time
+    year: 1927
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 298
+    title: Penicillin
+    details: discovery of penicillin, first modern antibiotic
+    year: 1928
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 299
+    title: Television
+    details: "Iconoscope\u2013T.V. camera table) <a href=\"/biographies/science-technology/vladimir-kosma-zworykin\">Vladimir
+      Zworykin</a>, U.S., 1923, and also kinescope (cathode ray tube"
+    year: 1928
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 300
+    title: UK women's Suffrage
+    details: 
+    year: 1928
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 301
+    title: Car radio
+    details: 
+    year: 1929
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 302
+    title: Expanding universe theory
+    details: discovered first direct evidence that the universe is expanding
+    year: 1929
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 303
+    title: H0 measured
+    details: 'Hubble constant: a measure of the rate at which the universe is expanding'
+    year: 1929
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 304
+    title: "\u201CScotch\u201D tape"
+    details: 
+    year: 1929
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 305
+    title: Start of great depression
+    details: 
+    year: 1929
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 306
+    title: Cyclotron
+    details: 
+    year: 1931
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 307
+    title: Deuterium
+    details: heavy hydrogen
+    year: 1931
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 308
+    title: Electric lamp (tungsten)
+    details: "tungsten filament) <a href=\"/search/encyclopedia/Irving+Langmuir\">Irving
+      Langmuir</a>, U.S., 1915.<table border=\"0\" class=\"graphseg\" width=\"179\"><tbody><tr><td
+      id=\"A0193137\"><img alt=\"Thomas Alva Edison\" class=\"b-lazy lazy_load_image\"
+      data-src=\"/images/edison.gif\" height=\"242\" id=\"A0198043\" src=\"\" width=\"179\"/><div
+      class=\"caption\"><a href=\"/search/encyclopedia/Thomas+Alva+Edison\">Thomas
+      Alva Edison</a> (1847\u20131931"
+    year: 1931
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 309
+    title: Radio signals, extraterrestrial
+    details: 
+    year: 1931
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 310
+    title: Defibrillator
+    details: 
+    year: 1932
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 311
+    title: Neutron
+    details: 
+    year: 1932
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 312
+    title: Positron
+    details: 
+    year: 1932
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 313
+    title: Cosmic radio waves
+    details: cosmic sources, led to radio astronomy
+    year: 1932
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 314
+    title: Hitler is appointed Chancellor of Germany
+    details: 
+    year: 1933
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 315
+    title: Neutron-induced radiation
+    details: 
+    year: 1934
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 316
+    title: Hitler becomes dictator
+    details: 
+    year: 1934
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 317
+    title: Nylon
+    details: nylon
+    year: 1935
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 318
+    title: Richter scale
+    details: 
+    year: 1935
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 319
+    title: Helicopter
+    details: double rotor
+    year: 1936
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 320
+    title: Jet propulsion engine
+    details: engine
+    year: 1936
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 321
+    title: Axis alliance forms (Japan, Italy, Germany)
+    details: 
+    year: 1936
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 322
+    title: Nuclear fission
+    details: 
+    year: 1938
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 323
+    title: Xerography
+    details: 
+    year: 1938
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 324
+    title: WW2 begins
+    details: 
+    year: 1939
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 325
+    title: Neptunium
+    details: first transuranic element, synthesis of
+    year: 1940
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 326
+    title: synthesis of Plutonium
+    details: 
+    year: 1941
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 327
+    title: Pearl Harbor bombed
+    details: 
+    year: 1941
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 328
+    title: Nuclear reactor
+    details: 
+    year: 1942
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 329
+    title: '"The Final Solution" issued (Nazi extermination of Jews)'
+    details: 
+    year: 1942
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 330
+    title: Aqualung (underwater-breathing apparatus)
+    details: 
+    year: 1943
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 331
+    title: Teflon
+    details: 
+    year: 1943
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 332
+    title: Computers (ENIAC, numeric calculator)
+    details: ENIAC, Electronic Numerical Integrator and Calculator, first all-electronic,
+      completed
+    year: 1945
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 333
+    title: WW2 ends
+    details: 
+    year: 1945
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 334
+    title: UN Formed
+    details: 
+    year: 1945
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 335
+    title: Holograph
+    details: 
+    year: 1947
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 336
+    title: Microwave oven
+    details: 
+    year: 1947
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 337
+    title: Carbon dating
+    details: discovered
+    year: 1947
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 338
+    title: Transistor
+    details: 
+    year: 1947
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 339
+    title: 'India gains independance from UK '
+    details: 
+    year: 1947
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 340
+    title: Big Bang theory named
+    details: "modified LeMaitre theory labeled \u201CBig Bang\u201D"
+    year: 1948
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 341
+    title: Polaroid Camera
+    details: Polaroid Land
+    year: 1948
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 342
+    title: Gandhi assassinated
+    details: 
+    year: 1948
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 343
+    title: Mao Zedong comes to power
+    details: 
+    year: 1949
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 344
+    title: Computers (UNIVAC, store numeric and alphabetic data)
+    details: UNIVAC, Universal Automatic Computer, handled both numeric and alphabetic
+      data
+    year: 1951
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 345
+    title: Oral contraceptive
+    details: 
+    year: 1951
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 346
+    title: Polio, vaccine
+    details: experimentally safe dead-virus vaccine
+    year: 1952
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 347
+    title: Measles vaccine
+    details: 
+    year: 1953
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 348
+    title: Discovery of the Double Helical Structure of DNA
+    details: 
+    year: 1953
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 349
+    title: 'Fidel Castro begins Cuban Revolution '
+    details: 
+    year: 1953
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 350
+    title: US Court rules segregated education is unconstitutional
+    details: 
+    year: 1954
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 351
+    title: Fiber optics
+    details: 
+    year: 1955
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 352
+    title: Rosa Parks refuses to leave her seat
+    details: 
+    year: 1955
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 353
+    title: Heart, temporary artificial
+    details: 
+    year: 1957
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 354
+    title: Interferon
+    details: 
+    year: 1957
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 355
+    title: Pacemaker
+    details: internal
+    year: 1957
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 356
+    title: Superconductivity
+    details: theory
+    year: 1957
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 357
+    title: First Man-Made Satellite (Sputnik)
+    details: 
+    year: 1957
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 358
+    title: Van Allen (radiation) Belt
+    details: around Earth
+    year: 1958
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 359
+    title: Intergrated circuit (microchip) invented
+    details: phase-shift oscillator
+    year: 1959
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 360
+    title: World population reaches 3 Billion
+    details: 
+    year: 1959
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 361
+    title: Laser
+    details: first working model
+    year: 1960
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 362
+    title: Building of Berlin Wall
+    details: 
+    year: 1961
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 363
+    title: US troops arrive in Vietnam
+    details: 
+    year: 1961
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 364
+    title: First human in space
+    details: 
+    year: 1961
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 365
+    title: Seat belt
+    details: three point
+    year: 1962
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 366
+    title: Quasars
+    details: 
+    year: 1963
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 367
+    title: '"I have a dream" speech'
+    details: 
+    year: 1963
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 368
+    title: JFK assasinated
+    details: 
+    year: 1963
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 369
+    title: Big Bang theory confirmed (cosmic microwave background)
+    details: cosmic microwave background radiation discovered, confirms theory
+    year: 1965
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 370
+    title: Programma 101 (personal computer)
+    details: personal computer
+    year: 1965
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 371
+    title: Assassination of Malcolm X
+    details: 
+    year: 1965
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 372
+    title: Pulsars
+    details: 
+    year: 1967
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 373
+    title: Quarks
+    details: 
+    year: 1967
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 374
+    title: nuclear weapons in space banned
+    details: 
+    year: 1967
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 375
+    title: Assassination of Martin Luther King, Jr.
+    details: 
+    year: 1968
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 376
+    title: First human on moon
+    details: 
+    year: 1969
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 377
+    title: Computer-scanned binary signal code (bar codes)
+    details: retail trade use
+    year: 1970
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 378
+    title: LCD (liquid crystal display)
+    details: 
+    year: 1970
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 379
+    title: Compact disk
+    details: 
+    year: 1972
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 380
+    title: Email
+    details: 
+    year: 1972
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 381
+    title: Prozac
+    details: antidepressant fluoxetine
+    year: 1972
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 382
+    title: Video disk
+    details: 
+    year: 1972
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 383
+    title: Gene transfer
+    details: recombinant DNA organism
+    year: 1973
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 384
+    title: World population reaches 4 Billion
+    details: 
+    year: 1974
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 385
+    title: Home videotape systems (VCR)
+    details: Betamax
+    year: 1975
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 386
+    title: Cosmic string theory
+    details: first postulated
+    year: 1976
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 387
+    title: Thatcher elected (1st female UK PM)
+    details: 
+    year: 1979
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 388
+    title: Heart implanted in human, permanent artificial
+    details: 
+    year: 1982
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 389
+    title: Chernobyl disaster
+    details: 
+    year: 1986
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 390
+    title: Challenger Space shuttle blows up
+    details: 
+    year: 1986
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 391
+    title: World population reaches 5 Billion
+    details: 
+    year: 1987
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 392
+    title: Gene transfer
+    details: human
+    year: 1989
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 393
+    title: CERN file sytem (WWW)
+    details: developed while working at CERN
+    year: 1989
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 394
+    title: Demolition of Berlin Wall
+    details: 
+    year: 1989
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 395
+    title: Mandela released from prison
+    details: 
+    year: 1990
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 396
+    title: Hubble telescope launched
+    details: 
+    year: 1990
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 397
+    title: Soviet Union is dissolved
+    details: 
+    year: 1991
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 398
+    title: apartheid laws repealed
+    details: 
+    year: 1991
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 399
+    title: World Wide Web
+    details: development of Mosaic browser makes WWW available for general use
+    year: 1993
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 400
+    title: Hong Kong returned to China
+    details: 
+    year: 1997
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 401
+    title: World population reaches 6 Billion
+    details: 
+    year: 1999
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 402
+    title: Toilet with flush
+    details: 
+    year: 2000
+    image: 
+    source: https://www.factmonster.com/math-science/inventions-discoveries/inventions-and-discoveries
+    inPlay: 0
+  - id: 403
+    title: Wikipedia launched
+    details: 
+    year: 2001
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 404
+    title: Euro currency introduced
+    details: 
+    year: 2002
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 405
+    title: Facebook created
+    details: 
+    year: 2004
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 406
+    title: First iPhone released
+    details: 
+    year: 2007
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 407
+    title: LHC construction complete
+    details: 
+    year: 2008
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 408
+    title: World population reaches 7 Billion
+    details: 
+    year: 2011
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
+  - id: 409
+    title: Saudi Arabia grants women right to vote and run for office
+    details: 
+    year: 2015
+    image: 
+    source: https://beckchris.com/history/the-55-most-important-events-in-human-history/
+    inPlay: 0
+  - id: 410
+    title: Coronavirus pandemic begins
+    details: 
+    year: 2019
+    image: 
+    source: https://humanhistorytimeline.com/
+    inPlay: 0
